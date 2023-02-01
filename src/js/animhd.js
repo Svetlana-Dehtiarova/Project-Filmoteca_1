@@ -140,3 +140,4 @@ function startAnimation() {
     });
   }
 })();
+// console.log()
